@@ -58,7 +58,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_4 = function() {
+(lib.CachedBmp_24 = function() {
 	this.initialize(ss["電子喜帖_HTML5 Canvas_atlas_3"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
@@ -322,7 +322,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_7.setTransform(583.05,384.65,1,1,0,0,0,55.4,114);
 	this.instance_7.alpha = 0.5;
 
-	this.instance_8 = new lib.CachedBmp_4();
+	this.instance_8 = new lib.CachedBmp_24();
 	this.instance_8.setTransform(417.7,239.25,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_8},{t:this.instance_7},{t:this.instance_6}]}).to({state:[]},1).wait(60));
@@ -346,10 +346,10 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/電子喜帖_HTML5 Canvas_atlas_1.png?1731942266602", id:"電子喜帖_HTML5 Canvas_atlas_1"},
-		{src:"images/電子喜帖_HTML5 Canvas_atlas_2.png?1731942266602", id:"電子喜帖_HTML5 Canvas_atlas_2"},
-		{src:"images/電子喜帖_HTML5 Canvas_atlas_3.png?1731942266603", id:"電子喜帖_HTML5 Canvas_atlas_3"},
-		{src:"images/電子喜帖_HTML5 Canvas_atlas_4.png?1731942266603", id:"電子喜帖_HTML5 Canvas_atlas_4"}
+		{src:"images/電子喜帖_HTML5 Canvas_atlas_1.png?1731943543034", id:"電子喜帖_HTML5 Canvas_atlas_1"},
+		{src:"images/電子喜帖_HTML5 Canvas_atlas_2.png?1731943543034", id:"電子喜帖_HTML5 Canvas_atlas_2"},
+		{src:"images/電子喜帖_HTML5 Canvas_atlas_3.png?1731943543034", id:"電子喜帖_HTML5 Canvas_atlas_3"},
+		{src:"images/電子喜帖_HTML5 Canvas_atlas_4.png?1731943543034", id:"電子喜帖_HTML5 Canvas_atlas_4"}
 	],
 	preloads: []
 };
